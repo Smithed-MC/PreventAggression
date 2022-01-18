@@ -4,6 +4,9 @@
         "minecraft:husk",
         "minecraft:drowned",
         "minecraft:zombie_villager",
-        "#raiders"
+        "minecraft:pillager",
+        "minecraft:ravager",
+        "minecraft:vindicator",
+        "minecraft:evoker"
     ]
 }

@@ -1,5 +1,5 @@
 {
     "values": [
-        "smithed:prevent_aggression/technical/load"
+        "#load:_private/load"
     ]
 }
