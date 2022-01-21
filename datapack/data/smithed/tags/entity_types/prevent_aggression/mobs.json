@@ -7,6 +7,8 @@
         "minecraft:pillager",
         "minecraft:ravager",
         "minecraft:vindicator",
-        "minecraft:evoker"
+        "minecraft:evoker",
+        "minecraft:vex",
+        "minecraft:illusioner"
     ]
 }
